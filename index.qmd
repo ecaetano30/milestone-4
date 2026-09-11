@@ -1,6 +1,6 @@
 ---
 title: "College Softball Batting Analysis: 2021 vs. 2022"
-author: "Student"
+author: "Emma Caetano"
 format: html
 execute:
   echo: false
